@@ -18,7 +18,7 @@ Explore: [ICPC Damanhour - Level 0 Wiki](https://github.com/ICPC-Damnhour-Commun
 
 ## 💬 Community & Support
 
-For any questions, feel free to ask in our Discord’s **#community-chat** channel.  
+For any questions, feel free to ask in our Discord’s **#community-chat** or **#support-chat** channels.  
 [Join Discord](https://discord.gg/NqxMdtDpeq)
 
 ---
