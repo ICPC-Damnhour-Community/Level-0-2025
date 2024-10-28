@@ -10,7 +10,7 @@ Explore: [ICPC Damanhour - Level 0 Wiki](https://github.com/ICPC-Damnhour-Commun
 ## 📅 Training Timeline
 
 - **Friday**: Study the topic of the week from resources.
-- **Saturday**: The revision session.
+- **Saturday**: The lecture session.
 - **Tuesday, Wednesday, Thursday**: Practice sessions (one group for every member).
 - **End of the week**: Upsolving videos for the week’s problems are shared.
 - After each week, the new problem sheet is released, and the previous one is closed.
