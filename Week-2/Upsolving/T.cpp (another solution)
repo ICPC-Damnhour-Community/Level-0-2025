@@ -1,0 +1,18 @@
+#include <bits/stdc++.h>
+using namespace std;
+#define bye return 0
+
+int main() {
+    string s;
+    cin >> s;
+    int n1 = 0, n2 = 0, n3 = 0;
+    n1 = (s[0] == 'R');
+    n2 = (s[1] == 'R');
+    n3 = (s[2] == 'R');
+
+    if(n1 + n2 + n3 == 2 and s[1] == 'S')
+        cout << 1;
+    else
+        cout << n1 + n2 + n3;
+    bye;
+}
