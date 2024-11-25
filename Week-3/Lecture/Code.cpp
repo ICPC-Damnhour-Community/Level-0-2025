@@ -48,7 +48,7 @@ int main(){
     cout<<endl;
 
 
-
+// while loop
     cout<<endl;
     int n=0;
     while(n < 3){
