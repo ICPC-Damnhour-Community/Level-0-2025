@@ -46,7 +46,7 @@ public:
             a[cur++] = item;
         }
     }
-    //
+
     void pop() {
         if (cur)
             cur--;
@@ -68,8 +68,15 @@ public:
         cur--;
     }
 
-    int &operator[](int x) {
+    T &operator[](int x) {
         return a[x];
+    }
+
+    T *begin() {
+        return a;
+    }
+    T *end() {
+        return a + cur;
     }
 
 
@@ -81,3 +88,4 @@ public:
 
 };
 #endif
+

@@ -2,7 +2,8 @@
 #ifndef MYPAIR_H
 #define MYPAIR_H
 template <typename T1,typename T2>
-struct mypair {
+class mypair {
+puplic:
     T1 first;
     T2 second;
 

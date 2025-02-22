@@ -31,7 +31,7 @@ public:
         }
     }
 
-    int operator[](int idx) {
+    int &operator[](int idx) {
         return a[idx];
     }
 
